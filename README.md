@@ -1,2 +1,2 @@
 # idlemind
-Equipment for making chocolate
+An idle mind is the devil's [chocolate] workshop. Self-built equipment for making chocolate.
